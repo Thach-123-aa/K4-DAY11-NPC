@@ -10,7 +10,7 @@
 - Tên định danh vai A dùng cho `--self`: `minh`
 - Kênh trao đổi nội bộ: nhóm chat lớp
 - Đại diện nộp (vai C): Cam Vũ Ngọc Thạch, 2A202602067
-- Commit chốt bài: điền SHA/URL khi push xong
+- Commit chốt bài: https://github.com/Thach-123-aa/K4-DAY11-NPC/commit/450144a
 
 ## 2. Ba vai chính
 
@@ -46,7 +46,7 @@ Bảng này xác định vai của nhóm. Vòng QA tự sinh trong `team.json` (
 - [x] B xác nhận đã QA độc lập trước reference và kiểm lại ca sửa: Quân — tự xác nhận đã kiểm trong repo của Quân (báo lại qua kênh nhóm)
 - [x] C xác nhận báo cáo đúng bản khóa, các file đầy đủ và check exit 0: Cam Vũ Ngọc Thạch — `python3 lab11.py check` báo "Hồ sơ hình thức đầy đủ" trong repo `K4-DAY11-CamVuNgocThach-2A202602067`
 - [ ] manifest.json tại commit chốt có failed_gates rỗng.
-- [ ] Repo nhóm Public, ảnh và các bằng chứng mở được.
-- [ ] C đã push và gửi link repo nhóm + commit qua kênh lớp công bố.
+- [ ] Repo nhóm Public, ảnh và các bằng chứng mở được. (cần bạn tự vào Settings trên GitHub xác nhận, tôi không kiểm tra được trạng thái Public/Private từ đây)
+- [x] C đã push TEAMMATES.md lên repo nhóm (commit `450144a`) — còn thiếu: gửi link qua kênh lớp công bố.
 
 Ghi chú: tài liệu này được lưu trong repo cá nhân của Thạch theo yêu cầu trực tiếp của Lab Coach, sau đó copy sang repo nhóm này. Xác nhận của A (Minh) và B (Quân) dựa trên báo cáo miệng/qua kênh chat của chính họ, chưa kèm bằng chứng file cụ thể trong tài liệu này — nếu cần đối chiếu, xem trực tiếp `submission/` trong repo riêng của từng người. Link repo cá nhân Public của Minh (`K4-DAY11-NguyenVuQuangMinh-2A202602092`) và Quân (`K4-DAY11-ToVanAnhQuan-2A202602231`) chưa có tài khoản GitHub cụ thể trong tài liệu này — cần bổ sung khi có.
